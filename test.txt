@@ -1,8 +1,8 @@
 #main code
 #########
-#5
+#56
 
-start new_f
+strt new_f
 
 #234
 #########
